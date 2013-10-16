@@ -2,9 +2,9 @@
 
 Hér á að koma listi af hópmeðlimum (sjá Markdown leiðbeiningar um það hvernig búa á til lista).
 
-Egill Sveinbjörnsson
-Dennis Kambskarð
-Karl Einarsson
+Egill Sveinbjörnsson  
+Dennis Kambskarð  
+Karl Einarsson  
 
 ## 1. Linux uppsetning
 
