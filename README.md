@@ -10,7 +10,7 @@ Karl Einarsson
 
 Lýsið hvernig gekk að setja upp Linux (Ubuntu eða aðra útgáfu). Bætið inn í þetta skjal ljósmynd af tölvunni að ræsa Linux (skoðið hvernig myndir eru settar inn í Markdown skjöl).
 
-Egill: Ég var með VMware Fusion uppsett á tölvunni minni, ég náði bara í ubuntu ISO og setti það upp, tók nokkrar mín og lenti ekki í neinum vandræðum.
+Egill: Ég var með VMware Fusion uppsett á tölvunni minni, ég náði bara í ubuntu ISO og setti það upp, tók nokkrar mín og lenti ekki í neinum vandræðum. Tölvan var svo fljót að boota að ég náði ekki mynd af kernel loadinu, þetta verður því að duga, eftir þetta lenti ég á login skjánum.
 Mynd af booti: ![Boot](http://i.imgur.com/epiYVvc.jpg)
 
 Karl: Downloadaði Ubuntu torrent skrá
