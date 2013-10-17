@@ -22,7 +22,7 @@ vona að þetta sé nógu gott.
 Mynd af booti: ![Boot](http://i.imgur.com/zl24LE9.png)
 
 Dennis: Notaði Virtualboxið og Ubuntu, allt virkaði bara eins og það átti að gera.
-Mynd af booti: ![Boot](http://imgur.com/0GzqIML)
+Mynd af booti: ![Boot](http://i.imgur.com/0GzqIML.png)
 
 ## 2. Uppsetning á vim && git
 
