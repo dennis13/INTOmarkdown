@@ -11,7 +11,7 @@ Karl Einarsson
 Lýsið hvernig gekk að setja upp Linux (Ubuntu eða aðra útgáfu). Bætið inn í þetta skjal ljósmynd af tölvunni að ræsa Linux (skoðið hvernig myndir eru settar inn í Markdown skjöl).
 
 Egill: Ég var með VMware Fusion uppsett á tölvunni minni, ég náði bara í ubuntu ISO og setti það upp, tók nokkrar mín og lenti ekki í neinum vandræðum.
-Mynd af booti: [Boot](http://i.imgur.com/iBDd58Q.png)
+Mynd af booti: ![Boot](http://i.imgur.com/iBDd58Q.png)
 
 Karl: Downloadaði Ubuntu torrent skrá
 Dl'aði Virtualbox sem virkaði ekki þannig að ég fékk mér vmware workstation.
@@ -19,10 +19,10 @@ Dl'aði Virtualbox sem virkaði ekki þannig að ég fékk mér vmware workstati
 Hérna er Ubuntu á virtualvélinni minni, 
 ég er svo fljótur að boota að ég náði ekki prtscrn af Ubuntu merkinu sjálfu,
 vona að þetta sé nógu gott.
-Mynd af booti: [Boot](http://i.imgur.com/zl24LE9.png)
+Mynd af booti: ![Boot](http://i.imgur.com/zl24LE9.png)
 
 Dennis: Notaði Virtualboxið og Ubuntu, allt virkaði bara eins og það átti að gera.
-Mynd af booti: [Boot](http://imgur.com/0GzqIML)
+Mynd af booti: ![Boot](http://imgur.com/0GzqIML)
 
 ## 2. Uppsetning á vim && git
 
