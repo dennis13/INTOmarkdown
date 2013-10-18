@@ -22,6 +22,7 @@ vona að þetta sé nógu gott.
 Mynd af booti: ![Boot](http://i.imgur.com/er5C8Ws.jpg)
 
 Dennis: Notaði Virtualboxið og Ubuntu, allt virkaði bara eins og það átti að gera.
+        Náði hinsvegar ekki betri mynd af mér vera að boota það því þetta fer bara beint úr blackscreen í login skjáinn
 Mynd af booti: ![Boot](http://i.imgur.com/0GzqIML.png)
 
 ## 2. Uppsetning á vim && git
