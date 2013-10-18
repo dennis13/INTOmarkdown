@@ -19,7 +19,7 @@ Dl'aði Virtualbox sem virkaði ekki þannig að ég fékk mér vmware workstati
 Hérna er Ubuntu á virtualvélinni minni, 
 ég er svo fljótur að boota að ég náði ekki prtscrn af Ubuntu merkinu sjálfu,
 vona að þetta sé nógu gott.
-Mynd af booti: ![Boot](http://i.imgur.com/zl24LE9.png)
+Mynd af booti: ![Boot](http://i.imgur.com/er5C8Ws.jpg)
 
 Dennis: Notaði Virtualboxið og Ubuntu, allt virkaði bara eins og það átti að gera.
 Mynd af booti: ![Boot](http://i.imgur.com/0GzqIML.png)
